@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://www.newtechdoha.com/</loc>
+	<lastmod>2023-07-29T09:19:57+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+<loc>https://www.newtechdoha.com/</loc>
+<lastmod>2023-07-29T06:21:18+00:00</lastmod>
+</url>
+
+<url>
+<loc>https://www.newtechdoha.com/#[object%20Object]</loc>
+	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+           <loc>https://www.newtechdoha.com/About</loc>
+		   	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+             <loc>https://www.newtechdoha.com/Products</loc>
+			 	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+<loc>https://www.newtechdoha.com/Brands</loc>
+	<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+            <loc>https://www.newtechdoha.com/Faq</loc>
+				<lastmod>2023-07-25T11:15:42+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
